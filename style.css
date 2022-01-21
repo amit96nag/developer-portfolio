@@ -1,3 +1,20 @@
 body{
-    font-family: 'Rubik Beastly', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    
+}
+.myname{
+    color: darkorange;
+
+}
+h1{
+    font-size: 70px;
+}
+section{
+    display: flex;
+}
+.halfwidth{
+    width: 50%;
+}
+.halfwidth img{
+    width: 80%\;
 }
